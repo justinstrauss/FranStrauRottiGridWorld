@@ -7,7 +7,7 @@ public class CircleBug extends Bug {
     private int steps;
     private int sideLength;
 
-    public BoxBug(int length){
+    public CircleBug(int length){
 	steps = 0;
 	sideLength = length;
     }
